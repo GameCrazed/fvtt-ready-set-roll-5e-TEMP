@@ -2,7 +2,7 @@
 	"id": "ready-set-roll-5e-temp",
 	"title": "Ready Set Roll for D&D5e - TEMP",
 	"description": "This module overhauls rolls for the D&D 5e system in the style of BetterRolls5e.",
-	"version": "1.3.15",
+	"version": "1.3.16",
 	"compatibility": {
 		"minimum": "10.274",
 		"verified": "10.290",
@@ -49,7 +49,5 @@
 	},
 	"url": "https://github.com/GameCrazed/fvtt-ready-set-roll-5e-TEMP",
 	"manifest": "https://raw.githubusercontent.com/GameCrazed/fvtt-ready-set-roll-5e-TEMP/master/module.json",
-	"download": "https://github.com/GameCrazed/fvtt-ready-set-roll-5e-TEMP/archive/master.zip",
-	"bugs": "https://github.com/GameCrazed/fvtt-ready-set-roll-5e-TEMP/issues",
-	"readme": "https://github.com/GameCrazed/fvtt-ready-set-roll-5e-TEMP/blob/master/README.md"
+	"download": "https://github.com/GameCrazed/fvtt-ready-set-roll-5e-TEMP/archive/refs/heads/master.zip"
 }

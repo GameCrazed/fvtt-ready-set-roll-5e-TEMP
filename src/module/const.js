@@ -1,12 +1,12 @@
 /**
  * String identifier for the module used throughout other scripts.
  */
-export const MODULE_NAME = "ready-set-roll-5e";
+export const MODULE_NAME = "ready-set-roll-5e-temp";
 
 /**
  * Full title string of the module.
  */
-export const MODULE_TITLE = "Ready Set Roll for D&D5e";
+export const MODULE_TITLE = "Ready Set Roll for D&D5e - TEMP";
 
 /**
  * Shorthand string identifier for the module

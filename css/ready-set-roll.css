@@ -214,27 +214,27 @@
 }
 
 .icon.overlay-healing {
-	background-image: url("../../../modules/ready-set-roll-5e/icons/overlay-healing.svg");
+	background-image: url("../../../modules/ready-set-roll-5e-temp/icons/overlay-healing.svg");
 }
 
 .icon.overlay-healing-temp {
-	background-image: url("../../../modules/ready-set-roll-5e/icons/overlay-healing-temp.svg");
+	background-image: url("../../../modules/ready-set-roll-5e-temp/icons/overlay-healing-temp.svg");
 }
 
 .icon.overlay-damage-full {
-	background-image: url("../../../modules/ready-set-roll-5e/icons/overlay-damage-full.svg");
+	background-image: url("../../../modules/ready-set-roll-5e-temp/icons/overlay-damage-full.svg");
 }
 
 .icon.overlay-damage-half {
-	background-image: url("../../../modules/ready-set-roll-5e/icons/overlay-damage-half.svg");
+	background-image: url("../../../modules/ready-set-roll-5e-temp/icons/overlay-damage-half.svg");
 }
 
 .icon.overlay-damage-quarter {
-	background-image: url("../../../modules/ready-set-roll-5e/icons/overlay-damage-quarter.svg");
+	background-image: url("../../../modules/ready-set-roll-5e-temp/icons/overlay-damage-quarter.svg");
 }
 
 .icon.overlay-damage-double {
-	background-image: url("../../../modules/ready-set-roll-5e/icons/overlay-damage-double.svg");
+	background-image: url("../../../modules/ready-set-roll-5e-temp/icons/overlay-damage-double.svg");
 }
 
 .die-result-overlay-br button i {

@@ -145,13 +145,24 @@ function _renderSaveButton(renderData = {}) {
 
     const abilityLabel = CONFIG.DND5E.abilities[ability];
 
-    return _renderModuleTemplate(TEMPLATE.SAVE_BUTTON, {
-        id,
-        ability,
-        abilityLabel,
-        hideDC,
-        dc
-    });
+    if (hideDC) {
+        const hiddenDC = ""
+        return _renderModuleTemplate(TEMPLATE.SAVE_BUTTON, {
+            id,
+            ability,
+            abilityLabel,
+            hideDC,
+            hiddenDC
+        });
+    } else {
+        return _renderModuleTemplate(TEMPLATE.SAVE_BUTTON, {
+            id,
+            ability,
+            abilityLabel,
+            hideDC,
+            dc
+        });
+    }
 }
 
 function _renderDamageButton(renderData = {}) {
